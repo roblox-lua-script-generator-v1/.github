@@ -1,4 +1,4 @@
-roblox lua script generator 2025S teal a Brainrot v2 C++
+roblox lua script generator 2025S Steal a Brainrot v2 C++
 ---
 
 This **roblox lua script generator for PC** is a lightweight and functional Lua script assistant. It allows you to load, attach, and execute scripts with a user-friendly interface and robust error handling — ideal for modding, automation, and local testing.
